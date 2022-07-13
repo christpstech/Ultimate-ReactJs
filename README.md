@@ -1,5 +1,5 @@
 # Ultimate-ReactJs
 ## React Js
 ### Angular
-- ** sagubar Sadiq **
+- sagubar Sadiq
 - *** sadiq ***
